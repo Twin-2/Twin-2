@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Twin-2
-- 👀 I’m interested in personal health
-- 🌱 I’m currently learning JS, HTML, and CSS
+- 👀 I’m interested in personal health and software development
+- 🌱 I’m currently learning web software development
 - 💞️ I’m looking to collaborate on learning!
 
 <!---
